@@ -10,10 +10,10 @@
 <details> 
   <summary>1 : Accéder au serveur </summary>
 
-## Connexion au serveur.
+## Connexion au NAS.
 
 1. Ouvrire un navigateur web.
-2. Accéder à l'adresse 192.168.2.45:500
+2. Accéder à l'adresse 192.168.2.45:5000
 3. Entrer son pass et son login.
 
 <a href="print-1.png"><img src="print-1.png" alt="capture" width="500"/></a>
