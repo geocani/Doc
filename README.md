@@ -20,9 +20,9 @@
 </details>
 
 <details> 
-  <summary>2 : Créer un dossier racine </summary>
+  <summary>2 : Créer un dossier racine pour Dolibarr </summary>
 
-## Créer un dossier racine.
+## Créer un dossier racine pour Dolibarr.
 
 1. Cliquer sur file `station`.
 2. Sélectionner l'option `web`.
