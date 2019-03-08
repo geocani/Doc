@@ -2,12 +2,8 @@
   <img style="text-align:center" src="log.png" alt="capture"/>
 </div>
 
-
-
-<p align="center"> 
 # Installation et configuration de Dolibarr sur un NAS Synology.
-</p>
-<center> <h1>heading 1</h1> </center>
+
 
 ## Chapitres:
 
