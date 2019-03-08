@@ -1,6 +1,8 @@
 # Installation et configuration de Dolibarr sur un NAS Synology.
 
-# Chapitres:
+<img src="log.png" alt="capture" width="500"/>
+
+## Chapitres:
 
 <details> 
   <summary>1 : Accéder au serveur </summary>
