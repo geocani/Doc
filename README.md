@@ -19,8 +19,8 @@
 
 ## Créer un dossier racine.
 
-1. Cliquer sur **file station**.
-2. Sélectionner l'option **web**.
+1. Cliquer sur <span style='color:green; font-size:20px; font-weight: 900'>file station</span>.
+2. Sélectionner l'option <span style='font-size:20px; font-weight: 900'>web</span>.
 3. Créer un nouveau dossier avec le nom souhaité.
 
 <a href="print-2.png"><img src="print-2.png" alt="capture" width="500"/></a>
