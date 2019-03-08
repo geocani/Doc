@@ -8,7 +8,7 @@
 ## Chapitres:
 
 <details> 
-  <summary>1 : Accéder au serveur </summary>
+  <summary>1 : Accéder au NAS Synology </summary>
 
 ## Connexion au NAS.
 
