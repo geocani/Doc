@@ -1,7 +1,7 @@
 # Installation et configuration de Dolibarr sur un NAS Synology.
-
-<img src="log.png" alt="capture" width="500"/>
-
+<div style="text-align:center">
+<img src="log.png" alt="capture"/>
+</div>
 ## Chapitres:
 
 <details> 
